@@ -60,4 +60,14 @@ class Player {
 ********************************************************************/
 
 
+// ADDITIONAL TO-DO:
+// - Add save/load mechanics and DM profiles
+// - Incorporate monster & spell API Cammy found
+// - Add notes classes for DMs to pre-write stuff and record happenings in campaign
+//    = Cammy wants to be able to sort by most recently opened
+//    = This means will need to have accessible variable for date/time of last viewed &
+//      method to set that variable (think about where this set fcn should be called automatically)
+
+
+
 
